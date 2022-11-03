@@ -1,9 +1,12 @@
 # The Goliath Hotend. 
-<img width="960" alt="goliath-lowres" src="https://user-images.githubusercontent.com/37383368/195914202-b6b73376-22ab-4478-b0bf-7f49b8e3ae7c.png">
+<img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S865b139c3f0941c1b681c8ea6c43c0e3A.jpg">
+<img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S1112409b3d2142f788c7e49827181baek.jpg">
+<img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S6fafb461b5ac44bd8c169d9b7305dd050.jpg">
+<img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/Sf013fd7771604701aaf57a8dea45a5a2f.jpg">
+<img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S213ac245adca47f18c8b17e3a5a31b50W.jpg">
+<img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S3ad3742e0b664793ba1bf0585aedfc3f7.jpg">
+<img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S73630f9c48124755a06ea780d371f0109.jpg">
 
-
-## Specs:
-<img width="960" alt="Goliath specs" src="https://user-images.githubusercontent.com/37383368/195914352-acbf3fbb-0363-40e2-94bd-2938d76021d7.png">
 
 ## Notes:
 
