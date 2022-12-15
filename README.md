@@ -1,4 +1,7 @@
 # The Goliath Hotend. 
+
+UPDATE: Small change on the hotend. Spacers and bolts have been replaced by standoffs. 
+
 <img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S865b139c3f0941c1b681c8ea6c43c0e3A.jpg">
 <img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S1112409b3d2142f788c7e49827181baek.jpg">
 <img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S6fafb461b5ac44bd8c169d9b7305dd050.jpg">
