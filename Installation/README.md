@@ -4,8 +4,8 @@
 - There are 3 positions you can use for the heatblock since there are 3 screws/standoffs. So you can rotate the heatblock to your need
 - On the Vz-Printhead, you can either send the nichrome wire to the back, under the printhead, or, send it on the right or left side in the front.
 
-![20221104_151457](https://user-images.githubusercontent.com/37383368/207970197-b652bb48-5b76-45bf-95fa-8609c7e8880a.jpg)
-![20221104_151457](https://user-images.githubusercontent.com/37383368/207979086-6d32e17a-aa06-4b65-8460-b84484860155.jpg)
+<img width="743" alt="image" src="https://user-images.githubusercontent.com/37383368/207979598-9c221d43-e6eb-4917-b0f7-244a65466119.png">
+
 ![20221107_205407](https://user-images.githubusercontent.com/37383368/207979093-63196e0d-56f3-424a-982e-e1408709f36a.jpg)
 ![20221107_205417](https://user-images.githubusercontent.com/37383368/207979099-c6cb17ce-aef3-4f82-851b-9f2643172785.jpg)
 ![20221107_205449](https://user-images.githubusercontent.com/37383368/207979102-fba86465-7fe5-4680-8fc2-2dcbefa9aa84.jpg)
