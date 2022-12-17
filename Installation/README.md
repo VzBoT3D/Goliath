@@ -14,6 +14,9 @@ Exemple showing it on the left side.
 <img width="743" alt="image" src="https://user-images.githubusercontent.com/37383368/207979598-9c221d43-e6eb-4917-b0f7-244a65466119.png">
 
 Exemple showing it in the back, going under the printhead.
+![image](https://user-images.githubusercontent.com/37383368/208245292-aa2bffb6-cb29-4fb6-96e3-291e09dfa14b.png)
+
+
 ![20221107_205407](https://user-images.githubusercontent.com/37383368/207979093-63196e0d-56f3-424a-982e-e1408709f36a.jpg)
 ![20221107_205417](https://user-images.githubusercontent.com/37383368/207979099-c6cb17ce-aef3-4f82-851b-9f2643172785.jpg)
 ![20221107_205449](https://user-images.githubusercontent.com/37383368/207979102-fba86465-7fe5-4680-8fc2-2dcbefa9aa84.jpg)
