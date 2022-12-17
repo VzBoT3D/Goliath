@@ -3,6 +3,7 @@
 - The Goliath is using a nichrome wire to heat up the block. It is quite stiff but also bendable to the desired position. 
 - There are 3 positions you can use for the heatblock since there are 3 screws/standoffs. So you can rotate the heatblock to your need
 - On the Vz-Printhead, you can either send the nichrome wire to the back, under the printhead, or, send it on the right or left side in the front.
+- It is recommended to add some thermal paste/grease between the heatbreak and heatsink for better heat transfer
 - You add a heat insulation sleeve if you like to give more protection of the nichrome wire that sticks out:
 
 #### https://amzn.to/3G2ARA9
