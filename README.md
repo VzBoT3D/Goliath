@@ -25,4 +25,4 @@ UPDATE: Small change on the hotend. Spacers and bolts have been replaced by stan
 
 - Heatbreak is fragile and brittle but extremely tolerant to abrassion and heat. If you have issues removing it from the heatsink, you can help it by pushing from the top where the PTFE tube comes in. DO NOT try to pull hard on it from the bottom of the heatsink or you might seperate the zirconia throat from the copper section.
 
-- Water heatsink uses PL4-M5/PC4-M5 fitting type. Meaning that the thread size on the block is M4 and the tube OD is 4mm. You can switch to something else if you wish but it will need to be M4 thread type fittings. 
+- Water heatsink uses PL4-M5/PC4-M5 fitting type. Meaning that the thread size on the block is M5 and the tube OD is 4mm. You can switch to something else if you wish but it will need to be M5 thread type fittings. 
