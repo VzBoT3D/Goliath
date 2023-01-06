@@ -5,6 +5,7 @@
 - On the Vz-Printhead, you can either send the nichrome wire to the back, under the printhead, or, send it on the right or left side in the front.
 - It is recommended to add some thermal paste/grease between the heatbreak and heatsink for better heat transfer. Do not use boron nitride as it will dry and make it really hard to remove heatbreak from heatsink.
 - You add a heat insulation sleeve if you like to give more protection of the nichrome wire that sticks out:
+- If you run the Vz-Hextrudort CNC version with the Vz-Printhead, the PTFE tube between Goliath and Hextrudort should be 22mm long
 
 #### https://amzn.to/3G2ARA9
 #### https://s.click.aliexpress.com/e/_DnpvQbp
