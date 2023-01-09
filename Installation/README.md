@@ -7,8 +7,9 @@
 - You add a heat insulation sleeve if you like to give more protection of the nichrome wire that sticks out:
 - If you run the Vz-Hextrudort CNC version with the Vz-Printhead, the PTFE tube between Goliath and Hextrudort should be 22mm long
 
-#### https://amzn.to/3G2ARA9
-#### https://s.click.aliexpress.com/e/_DnpvQbp
+### High temp Wire sleeve:
+- https://amzn.to/3G2ARA9
+- https://s.click.aliexpress.com/e/_DnpvQbp
 
 ### Exemple showing it on the right side.
 
