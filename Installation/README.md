@@ -11,12 +11,12 @@
 - https://amzn.to/3G2ARA9
 - https://s.click.aliexpress.com/e/_DnpvQbp
 
-### Exemple showing it on the right side.
+### Example showing it on the right side.
 
 <img width="587" alt="image" src="https://user-images.githubusercontent.com/37383368/211330774-17573318-2ac8-4077-9e59-f4db8dd18e41.png">
 
 
-Exemple showing it in the back, going under the printhead.
+Example showing it in the back, going under the printhead.
 ![image](https://user-images.githubusercontent.com/37383368/208245292-aa2bffb6-cb29-4fb6-96e3-291e09dfa14b.png)
 
 
