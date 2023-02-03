@@ -6,7 +6,7 @@ List of resellers (this will be updated as we will deploy elwhere)
 - Germany: [CR-3D.de](https://www.cr3d.de/) Soon
 
 ## Australia:
-- Raven-3dtech.au : 10 sets. Australia
+- [raven3dtech.com.au](https://raven3dtech.com.au/product/mellow-goliath-air-water/)
 
 ## Canada:
 - Northprint3d.ca : Canada (Coming February).. pre-order might start this week
