@@ -1,0 +1,17 @@
+List of resellers (this will be updated as we will deploy elwhere)
+
+## Europe:
+
+- Danemark: [3DO.eu](https://3do.eu/) 
+- Germany: [CR-3D.de](https://www.cr3d.de/) Soon
+
+## Australia:
+- [raven3dtech.com.au](https://raven3dtech.com.au/product/mellow-goliath-air-water/)
+
+## Canada:
+- [Northprint3d.ca](https://northprint3d.ca/product/vzbot-mellow-goliath-lsd-hotend/)
+
+
+
+## More to come..
+- Aliexpress SOON 
