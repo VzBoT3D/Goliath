@@ -2,8 +2,10 @@
 
 UPDATE: Small change on the hotend. Spacers and bolts have been replaced by standoffs. 
 
-<img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S865b139c3f0941c1b681c8ea6c43c0e3A.jpg">
-<img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S1112409b3d2142f788c7e49827181baek.jpg">
+<img width="369" alt="image" src="https://user-images.githubusercontent.com/37383368/223729191-9c09782e-7072-4c55-bd59-f006d90ac4ae.png">
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/37383368/223729264-8aa6f8de-93b4-461b-bda5-bfba6d119e7d.png">
+<img width="368" alt="image" src="https://user-images.githubusercontent.com/37383368/223729334-69263cc5-c08a-46ef-96ca-cb02d0557756.png">
+<img width="328" alt="image" src="https://user-images.githubusercontent.com/37383368/223729455-56060e76-f2b8-4f26-8477-0677c1313ed4.png">
 <img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S6fafb461b5ac44bd8c169d9b7305dd050.jpg">
 <img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/Sf013fd7771604701aaf57a8dea45a5a2f.jpg">
 <img width="960" alt="goliath-lowres" src="https://ae01.alicdn.com/kf/S213ac245adca47f18c8b17e3a5a31b50W.jpg">
