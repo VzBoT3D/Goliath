@@ -4,7 +4,7 @@
 - There are 3 positions you can use for the heatblock since there are 3 screws/standoffs. So you can rotate the heatblock to your need
 - On the Vz-Printhead, you can either send the nichrome wire to the back, under the printhead, or, send it on the right or left side in the front. Sending to the right will keep the "natural" bend of the wire.
 - It is recommended to add some thermal paste/grease between the heatbreak and heatsink for better heat transfer. Do not use boron nitride as it will dry and make it really hard to remove heatbreak from heatsink.
-- You add a heat insulation sleeve if you like to give more protection of the nichrome wire that sticks out:
+- You can add a heat insulation sleeve if you like to give more protection of the nichrome wire that sticks out:
 - If you run the Vz-Hextrudort CNC version with the Vz-Printhead, the PTFE tube between Goliath and Hextrudort should be 22mm long
 - Make sure everything is tighten properly and once you have it mounted and ready, do 2-3 heat cycle then tight the nozzle to 1.5nm (If you do not have a torque wrench, make sure you do not overtight the nozzle to damage thread on the copper heat block)
 
