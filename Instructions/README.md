@@ -22,7 +22,7 @@ Same applies for heabreak. To remove the heatbreak, you will have to heat the ho
   - remove the sock
   - unscrew the 3 M2 screws to remove the heatsink
   - once heatsink is removed and heatbreak is accessible, use a heatgun, or a blow torch to heat arround the heatbreak (be careful not to heat it too much if you use a propane torch). You want to bring it hot enough to break loose the plastic inside, and it will be easier to unscrew. If you don't have a heatgun or a blowtorch, you can connect the Goliath back to the printer and heat it from the printer. Hold the Goliath by the wire doing so.
-  - Use a 5.5mm wrench or adjustable one. (There is one provided with the Goliath, but if you can use a better one one that has larger contact, it will give better grip.) And use a 9mm wrench to hold the heatblock. This will be tricky, but with care it should unscrew relatively easy.
+  - Use a 5.5mm wrench or adjustable one. (There is one provided with the Goliath, but if you can use a better one one that has larger contact, it will give better grip.) And use a 9mm wrench to hold the heatblock at the bottom. This will be tricky, but with care it should unscrew relatively easy.
   - install the new heatbreak. Use 1.0-1.2 Nm
 
 
