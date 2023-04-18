@@ -6,7 +6,25 @@
 - It is recommended to add some thermal paste/grease between the heatbreak and heatsink for better heat transfer. Do not use boron nitride as it will dry and make it really hard to remove heatbreak from heatsink.
 - You can add a heat insulation sleeve if you like to give more protection of the nichrome wire that sticks out:
 - If you run the Vz-Hextrudort CNC version with the Vz-Printhead, the PTFE tube between Goliath and Hextrudort should be 22mm long
-- Make sure everything is tighten properly and once you have it mounted and ready, do 2-3 heat cycle then tight the nozzle to 1.5nm (If you do not have a torque wrench, make sure you do not overtight the nozzle to damage thread on the copper heat block)
+- Make sure everything is tighten properly and once you have it mounted and ready, do 2-3 heat cycle then tight the nozzle to between 1.2-1.4 nm (If you do not have a torque wrench, make sure you do not overtight the nozzle to damage thread on the copper heat block)
+
+## Nozzle and Heatbreak:
+Nozzle:
+- Always heat the hotend before removing nozzle (Retract/unload filament before removing nozzle). If you do not heat it, harden plastic inside inside the hotend will make it very hard to unsrew, and you can damage the hotend/nozzle 
+- Always torque the nozzle after you have heaten the hotend. Torque required is between 1.2-1.4 Nm. 
+- You can use this [tool](https://www.thingiverse.com/thing:4738816)
+
+Heatbreak:
+
+Same applies for heabreak. To remove the heatbreak, you will have to heat the hotend first to melt the plastic inside first. This can be challenging. Wear protective gloves to avoid burning yourself. 
+  - remove the hotend from the the printhead
+  - remove the  Pt1000 sensor
+  - remove the sock
+  - unscrew the 3 M2 screws to remove the heatsink
+  - once heatsink is removed and heatbreak is accessible, use a heatgun, or a blow torch (be careful not to heat it too much if you use a propane torch). You want to bring it hot enough to break loose the plastic inside, and it will be easier to unscrew. If you don't have a heatgun or a blowtorch, you can connect the Goliath back to the printer and heat it from the printer. Hold the Goliath by the wire doing so.
+  - Use a 5.5mm wrench or adjustable one. (There is one provided with the Goliath, but if you can use a better one one that has larger contact, it will give better grip.) And use a 9mm wrench to hold the heatblock. This will be tricky, but with care it should unscrew relatively easy.
+  - install the new heatbreak. Use 1.0-1.2 Nm
+
 
 ### High temp Wire sleeve:
 - https://amzn.to/3G2ARA9
