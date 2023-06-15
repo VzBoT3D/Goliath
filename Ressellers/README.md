@@ -16,7 +16,7 @@ List of resellers (this will be updated as we will deploy elwhere)
 - [Provok3D](https://provok3d.com/vzbot-2/?v=0a10a0b3e53b)
 - [3Dprintedprinter](https://3Dprintedprinters.com) 
 - [Genericprinter](https://www.genericprinter.com/product/goliath-air-water-v2-hotend/)
-
+- [Fabreeko](https://www.fabreeko.com/collections/hot-ends/products/vz-bot-goliath-hot-end-by-mellow)
 
 
 ## More to come..
