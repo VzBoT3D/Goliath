@@ -1,5 +1,7 @@
 List of resellers (this will be updated as we will deploy elwhere)
 
+Mellow Direct:  https://s.click.aliexpress.com/e/_DDPO4TT
+
 ## Europe:
 
 - Danemark: [3DO.eu](https://3do.eu/) 
