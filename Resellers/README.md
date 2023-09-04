@@ -21,3 +21,5 @@ List of resellers (this will be updated as the Goliath becomes available). Liste
   - [Genericprinter](https://www.genericprinter.com/product/goliath-air-water-v2-hotend/)
   - [Print3Dshop.org](https://print3dshop.org/)
   - [Provok3D](https://provok3d.com/vzbot-2/?v=0a10a0b3e53b)
+
+
