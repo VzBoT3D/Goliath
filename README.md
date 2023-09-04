@@ -9,14 +9,13 @@ A high-flow oriented hot end by the VzBoT-team and manufactured by Mellow3D
 
 ---
 
-* [Fan shrouds](#fan-shrouds)
-* Instructions
-  * ![vz-logo](https://github.com/VzBoT3D/Goliath/assets/16231288/8d3f7843-60bb-4447-aa31-55c069ced052) [Goliath Assembly - VzBoT Docs](https://docs.vzbot.org/vz-other/goliath/assembly)
-  * [Brief instructions](./brief-instructions.md)
+🔧 How does this go together? ![vz-logo](https://github.com/VzBoT3D/Goliath/assets/16231288/8d3f7843-60bb-4447-aa31-55c069ced052) [Goliath Assembly - VzBoT Docs](https://docs.vzbot.org/vz-other/goliath/assembly)
 
 🤔 What do I mount this on? [Printed Vz-Printhead](https://github.com/VzBoT3D/Vz-Printhead-Printed) or [CNC Vz-Printhead](https://github.com/VzBoT3D/Vz-Printhead-CNC)
 
 🧺 Where can I buy one? Check the [Resellers list](./resellers.md)
+
+💨 Don't forget the [Fan shrouds](#fan-shrouds)
 
 ## Notes
 
