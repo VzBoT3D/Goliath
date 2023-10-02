@@ -47,3 +47,9 @@ A high-flow oriented hot end by the VzBoT-team and manufactured by Mellow3D
 |![Goliath overview 1](https://github.com/VzBoT3D/Goliath/assets/16231288/029c100b-010f-4457-af71-6c6c962ac259)|![Goliath overview 2](https://github.com/VzBoT3D/Goliath/assets/16231288/65f6e153-5e78-438d-a3ee-0308ce574a54)||
 |![Air cooled packing list Mellow](https://ae01.alicdn.com/kf/S01adc4033f0b4f7dbd93f193ca7e088dM.jpg)|![Water cooled packing list Mellow](https://ae01.alicdn.com/kf/S4f9d81d8b1da46e9b61473e60334f1420.jpg)|
 |![Maximum temperature 550°C](https://ae01.alicdn.com/kf/S213ac245adca47f18c8b17e3a5a31b50W.jpg)|![Goliath air/water weight](https://ae01.alicdn.com/kf/Sb6b2fed5dde3450d9fa84b30729db200L.jpg)|
+
+## License
+
+This project is licensed under the Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) license. Exceptions apply only for our approved distributors and manufacturers.
+
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/37383368/187048918-d388e8f9-8f84-4fd7-b27f-d4f9ee766cb4.png">
