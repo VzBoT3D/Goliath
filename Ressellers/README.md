@@ -9,6 +9,7 @@ Mellow Direct:  https://s.click.aliexpress.com/e/_DDPO4TT
 - Germany: [Meltbro](https://meltbro.de/mellow-vzbot-awd-330-3d-drucker-bausatz-metall-komponenten-golitath-hotend-hextrudort.html)
 - F3D Racing: [F3D Racing](https://f3d-racing-fdm.myshopify.com/)
 - Poland: [X3Dshop](https://x3dshop.com/products/drukarka-3d-mellow-vzbot-330-kit-1)
+- UK: [3Dimensionally](https://3dimensionally.com/shop/goliath-hotend/)
 
 
 ## Australia:
