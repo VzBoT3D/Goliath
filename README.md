@@ -12,7 +12,7 @@ A high-flow oriented hot end by the VzBoT-team and manufactured by Mellow3D
 * [Fan ducts](STL/Air%20Cool%20Fan%20duct/README.md)
 * [Resellers & Shops](Resellers/README.md)
 * Instructions
-  * ![image](https://github.com/VzBoT3D/Goliath/assets/16231288/8d3f7843-60bb-4447-aa31-55c069ced052) [Goliath Assembly - VzBoT Docs](https://docs.vzbot.org/vz-other/goliath/assembly)
+  * ![image](https://github.com/VzBoT3D/Goliath/assets/16231288/8d3f7843-60bb-4447-aa31-55c069ced052) [Goliath Assembly - VzBoT Docs](https://docs.vzbot.org/goliath/assembly)
   * [Brief instructions](/Instructions/README.md)
 
 🤔 What do I mount this on? [Printed Vz-Printhead](https://github.com/VzBoT3D/Vz-Printhead-Printed) or [CNC Vz-Printhead](https://github.com/VzBoT3D/Vz-Printhead-CNC)
