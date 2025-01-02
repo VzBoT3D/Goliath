@@ -44,13 +44,13 @@ The air-cooled Goliath heatsink need a fan to keep it cool. These shrouds let yo
  
 Generic fan shrouds
 
-* 20mm x 10mm fan: [Goliath fan shroud 2010](./Goliath%20fan%20shroud%202010.stl)
-* 25mm x 10mm fan: [Goliath fan shroud 2510](./Goliath%20fan%20shroud%202510.stl)
+* 20mm x 10mm fan: [Goliath fan shroud 2010](./STL/Goliath%20fan%20shroud%202010.stl)
+* 25mm x 10mm fan: [Goliath fan shroud 2510](./STL/Goliath%20fan%20shroud%202510.stl)
 
 Vz-Printhead fan shrouds
 
-* For CNC Vz-Printhead: [Goliath fan shroud 2510 - for CNC Vz-Printhead](./Goliath%20fan%20shroud%202510%20for%20CNC%20Vz-Printhead.stl)
-* For Printed Vz-Printhead: [Goliath fan shroud 2510 - for Printed Vz-Printhead](./Goliath%20fan%20shroud%202510%20for%20Printed%20Vz-Printhead.stl)
+* For CNC Vz-Printhead: [Goliath fan shroud 2510 - for CNC Vz-Printhead](./STL/Goliath%20fan%20shroud%202510%20for%20CNC%20Vz-Printhead.stl)
+* For Printed Vz-Printhead: [Goliath fan shroud 2510 - for Printed Vz-Printhead](./STL/Goliath%20fan%20shroud%202510%20for%20Printed%20Vz-Printhead.stl)
 
 Vz-Printhead on GitHub: 
 
