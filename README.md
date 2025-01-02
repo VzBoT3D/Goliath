@@ -74,4 +74,6 @@ Vz-Printhead on GitHub:
 
 This project is licensed under the Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) license. Exceptions apply only for our approved distributors and manufacturers.
 
-<img width="389" alt="image" src="https://user-images.githubusercontent.com/37383368/187048918-d388e8f9-8f84-4fd7-b27f-d4f9ee766cb4.png">
+![image](https://user-images.githubusercontent.com/37383368/139769027-7267da5b-7f58-499d-96bc-e41d164a3aac.png)
+
+https://creativecommons.org/licenses/by-nc/4.0/
