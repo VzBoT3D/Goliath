@@ -9,13 +9,14 @@ A high-flow oriented hot end by the VzBoT-team and manufactured by Mellow3D
 
 ---
 
-* [Fan ducts](STL/Air%20Cool%20Fan%20duct/README.md)
-* [Resellers & Shops](Resellers/README.md)
-* Instructions
-  * ![image](https://github.com/VzBoT3D/Goliath/assets/16231288/8d3f7843-60bb-4447-aa31-55c069ced052) [Goliath Assembly - VzBoT Docs](https://docs.vzbot.org/goliath/assembly)
-  * [Brief instructions](/Instructions/README.md)
+
+🔧 How does this go together? ![vz-logo](https://github.com/VzBoT3D/Goliath/assets/16231288/8d3f7843-60bb-4447-aa31-55c069ced052) [Goliath Assembly - VzBoT Docs](https://docs.vzbot.org/vz-other/goliath/assembly)
 
 🤔 What do I mount this on? [Printed Vz-Printhead](https://github.com/VzBoT3D/Vz-Printhead-Printed) or [CNC Vz-Printhead](https://github.com/VzBoT3D/Vz-Printhead-CNC)
+
+🧺 Where can I buy one? Check the [Resellers list](./resellers.md)
+
+💨 Don't forget the [Fan shrouds](#fan-shrouds)
 
 ## Notes
 
@@ -36,6 +37,27 @@ A high-flow oriented hot end by the VzBoT-team and manufactured by Mellow3D
 |||
 |---|---|
 |![Goliath dimensions](https://github.com/VzBoT3D/Goliath/assets/16231288/f79c6f5a-59e4-4e19-b071-adc8a895b7dd)|![Goliath overview](https://user-images.githubusercontent.com/37383368/223729455-56060e76-f2b8-4f26-8477-0677c1313ed4.png)|
+
+## Fan shrouds
+ 
+The air-cooled Goliath heatsink need a fan to keep it cool. These shrouds let you mount a fan on to the Goliath air-cooled heatsink. 
+ 
+Generic fan shrouds
+
+* 20mm x 10mm fan: [Goliath fan shroud 2010](./Goliath%20fan%20shroud%202010.stl)
+* 25mm x 10mm fan: [Goliath fan shroud 2510](./Goliath%20fan%20shroud%202510.stl)
+
+Vz-Printhead fan shrouds
+
+* For CNC Vz-Printhead: [Goliath fan shroud 2510 - for CNC Vz-Printhead](./Goliath%20fan%20shroud%202510%20for%20CNC%20Vz-Printhead.stl)
+* For Printed Vz-Printhead: [Goliath fan shroud 2510 - for Printed Vz-Printhead](./Goliath%20fan%20shroud%202510%20for%20Printed%20Vz-Printhead.stl)
+
+Vz-Printhead on GitHub: 
+
+* [CNC VZ-Printhead](https://github.com/VzBoT3D/Vz-Printhead-CNC)
+* [Printed VZ-Printhead](https://github.com/VzBoT3D/Vz-Printhead-Printed)
+
+***Can't find what you're looking for? Check out the [user Mods](https://github.com/VzBoT3D/VzBoT-UserMods) repository.***
 
 ## Marketing images
 
